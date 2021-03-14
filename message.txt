@@ -1,0 +1,9 @@
+<YOU CAN CHANGE THIS BODY OF THIS MAIL ACCORDINGLY>
+
+Dear ${PERSON_NAME},
+
+
+Please find your maintainance bill for ${ROOM} attached with this email. Requesting you to pay before 20th of this month.
+
+Regards,
+<YOUR APARTMENT's NAME>
